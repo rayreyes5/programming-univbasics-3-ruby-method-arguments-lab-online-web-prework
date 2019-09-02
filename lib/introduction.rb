@@ -1,6 +1,6 @@
 `#introduction  `name` `"Hi, my name is #{name}."`
-#introduction_with_language name language  "Hi, my name is #{name} and I am learning to program in #{Ruby}."
-#introduction_with_language_optional name
+#introduction_with_language name language 
+#introduction_with_language_optional name "Ruby" 
 
 
 
